@@ -1,0 +1,43 @@
+{
+  "data_period": [
+    "2024-05-04",
+    "2026-05-04"
+  ],
+  "data_bars": 731,
+  "signals_total": 133,
+  "signals_long": 63,
+  "signals_short": 70,
+  "start_capital": 10000.0,
+  "modes": {
+    "conservative": {
+      "trades": 17,
+      "final_equity": 20.02,
+      "total_return_pct": -99.8,
+      "mdd_pct": -99.8,
+      "win_rate_pct": 29.41,
+      "profit_factor": 0.43,
+      "avg_r": -0.413,
+      "long_trades": 9,
+      "long_win_rate_pct": 22.22,
+      "short_trades": 8,
+      "short_win_rate_pct": 37.5,
+      "total_fees": 540.29,
+      "liq_risk_trades": 0
+    },
+    "optimistic": {
+      "trades": 35,
+      "final_equity": -579.09,
+      "total_return_pct": -105.79,
+      "mdd_pct": -105.72,
+      "win_rate_pct": 45.71,
+      "profit_factor": 0.61,
+      "avg_r": -0.207,
+      "long_trades": 17,
+      "long_win_rate_pct": 52.94,
+      "short_trades": 18,
+      "short_win_rate_pct": 38.89,
+      "total_fees": 1120.92,
+      "liq_risk_trades": 0
+    }
+  }
+}
